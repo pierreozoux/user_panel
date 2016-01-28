@@ -1,3 +1,5 @@
+DEPRECATED
+
 user_panel
 ==========
 
